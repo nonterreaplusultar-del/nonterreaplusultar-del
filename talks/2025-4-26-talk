@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.4.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+
+<script id="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"example.com","root":"/","scheme":"Muse","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}};
+  </script>
+
+  <meta name="description" content="关于两次经历巨大差异的思考 ✨最近，我一直在思考一个重要的问题：为什么两次的经历差别会这么大？这不仅是一个小小的感慨，而是一个值得认真探究的话题。 究竟是什么变了？我觉得，这是一个很重要的问题。 可以说，第二次的我心如止水，完全没有了第一次的那种青涩与悸动。两段经历的差异，就像那时的生活和现在的生活，截然不同。  那时候的日子 🕰️那个时候，虽然生活很辛苦，但每天都有熟悉的人在身边。一起说话、聊">
+<meta property="og:type" content="article">
+<meta property="og:title" content="为什么两次有这么大的差别">
+<meta property="og:url" content="http://example.com/talks/2025-4-26-talk">
+<meta property="og:site_name" content="Hexo">
+<meta property="og:description" content="关于两次经历巨大差异的思考 ✨最近，我一直在思考一个重要的问题：为什么两次的经历差别会这么大？这不仅是一个小小的感慨，而是一个值得认真探究的话题。 究竟是什么变了？我觉得，这是一个很重要的问题。 可以说，第二次的我心如止水，完全没有了第一次的那种青涩与悸动。两段经历的差异，就像那时的生活和现在的生活，截然不同。  那时候的日子 🕰️那个时候，虽然生活很辛苦，但每天都有熟悉的人在身边。一起说话、聊">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2025-04-26T07:00:00.000Z">
+<meta property="article:modified_time" content="2025-09-29T12:41:09.716Z">
+<meta property="article:author" content="John Doe">
+<meta property="article:tag" content="reflection">
+<meta name="twitter:card" content="summary">
+
+<link rel="canonical" href="http://example.com/talks/2025-4-26-talk">
+
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'en'
+  };
+</script>
+
+  <title>为什么两次有这么大的差别 | Hexo</title>
+  
+
+
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="container use-motion">
+    <div class="headband"></div>
+
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="Toggle navigation bar">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <h1 class="site-title">Hexo</h1>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+    </div>
+  </div>
+</div>
+
+
+
+
+<nav class="site-nav">
+  <ul id="menu" class="main-menu menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/" rel="section"><i class="fa fa-home fa-fw"></i>Home</a>
+
+  </li>
+        <li class="menu-item menu-item-about">
+
+    <a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>About</a>
+
+  </li>
+        <li class="menu-item menu-item-tags">
+
+    <a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>Tags</a>
+
+  </li>
+        <li class="menu-item menu-item-categories">
+
+    <a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>Categories</a>
+
+  </li>
+        <li class="menu-item menu-item-archives">
+
+    <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>Archives</a>
+
+  </li>
+        <li class="menu-item menu-item-schedule">
+
+    <a href="/schedule/" rel="section"><i class="fa fa-calendar fa-fw"></i>Schedule</a>
+
+  </li>
+        <li class="menu-item menu-item-sitemap">
+
+    <a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>Sitemap</a>
+
+  </li>
+        <li class="menu-item menu-item-commonweal">
+
+    <a href="/404/" rel="section"><i class="fa fa-heartbeat fa-fw"></i>Commonweal 404</a>
+
+  </li>
+  </ul>
+</nav>
+
+
+
+
+</div>
+    </header>
+
+    
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content post posts-expand">
+            
+
+    
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
+    <link itemprop="mainEntityOfPage" href="http://example.com/talks/2025-4-26-talk">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="John Doe">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Hexo">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          为什么两次有这么大的差别
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">Posted on</span>
+
+              <time title="Created: 2025-04-26 00:00:00" itemprop="dateCreated datePublished" datetime="2025-04-26T00:00:00-07:00">2025-04-26</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">Edited on</span>
+                <time title="Modified: 2025-09-29 05:41:09" itemprop="dateModified" datetime="2025-09-29T05:41:09-07:00">2025-09-29</time>
+              </span>
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+        <h1 id="关于两次经历巨大差异的思考-✨"><a href="#关于两次经历巨大差异的思考-✨" class="headerlink" title="关于两次经历巨大差异的思考 ✨"></a>关于两次经历巨大差异的思考 ✨</h1><p>最近，我一直在思考一个重要的问题：<strong>为什么两次的经历差别会这么大？</strong><br>这不仅是一个小小的感慨，而是一个值得认真探究的话题。</p>
+<p>究竟是什么变了？<br>我觉得，这是一个很重要的问题。</p>
+<p>可以说，第二次的我心如止水，完全没有了第一次的那种青涩与悸动。两段经历的差异，就像那时的生活和现在的生活，截然不同。</p>
+<hr>
+<h2 id="那时候的日子-🕰️"><a href="#那时候的日子-🕰️" class="headerlink" title="那时候的日子 🕰️"></a>那时候的日子 🕰️</h2><p>那个时候，虽然生活很辛苦，但每天都有熟悉的人在身边。<br>一起说话、聊日常的生活琐事，这样的陪伴，让人感到温暖和安心。<br>我觉得，这种简单而自然的交流，是非常宝贵的。</p>
+<hr>
+<h2 id="现在的状态-🌏"><a href="#现在的状态-🌏" class="headerlink" title="现在的状态 🌏"></a>现在的状态 🌏</h2><p>而现在，我一个人身在新加坡。<br>与中国人的交流很少，虽然和何志斌（新加坡人）有不少接触，但始终无法真正做到畅谈。<br>为什么会这样呢？<br>我也说不上来，也许是文化背景、成长环境等多方面的不同，导致了这种隔阂吧。</p>
+<hr>
+<h1 id="27号早晨的反思-☀️"><a href="#27号早晨的反思-☀️" class="headerlink" title="27号早晨的反思 ☀️"></a>27号早晨的反思 ☀️</h1><p>以下是我在 27 号早晨口述整理下来的思考。<br>经过一夜休息，我觉得自己有了足够的精力和冷静，能够更加认真地分析这两段不同的经历。</p>
+<hr>
+<h2 id="第一次经历的开始：2017年夏天-🌿"><a href="#第一次经历的开始：2017年夏天-🌿" class="headerlink" title="第一次经历的开始：2017年夏天 🌿"></a>第一次经历的开始：2017年夏天 🌿</h2><p>故事开始于 2017 年的夏天。<br>那天，我正在从 X2 中学的教学楼往外走。我们当时在 X2 补课，而那一刻，补课终于结束了，即将迎来一个短暂的暑假。  </p>
+<p>我一边大声说着话，一边朝外走。突然，前面走着的三个女生中，有一个回头，朝我笑了一下。<br>这，就是故事的开端。</p>
+<p>后来，初三学习正式开始。第一次月考后，成绩好的学生可以自由选择座位。<br>我选择了一个喜欢的位置，而她也恰好选了一个临近的座位。</p>
+<p>再后来，座位调整，我们三个人成了同桌。<br>慢慢地，我们熟悉了，了解了，距离也逐渐拉近。</p>
+<hr>
+<h2 id="第一次经历的感受：青春激扬-💫"><a href="#第一次经历的感受：青春激扬-💫" class="headerlink" title="第一次经历的感受：青春激扬 💫"></a>第一次经历的感受：青春激扬 💫</h2><p>为什么第一次能有那样的感觉呢？<br>我想，是因为对方性格开朗活泼、可爱动人。<br>这种性格，让我能充分感受到一股青春激扬的热情。<br>那种热情，是毫无保留、自然流淌的，是青春本来的样子。</p>
+<hr>
+<h1 id="第二次经历的对比与思考-🌑"><a href="#第二次经历的对比与思考-🌑" class="headerlink" title="第二次经历的对比与思考 🌑"></a>第二次经历的对比与思考 🌑</h1><p>而后来的我，却变得急躁，内心缺乏激情。<br>也许是因为置身于异国他乡，也没有真正认识的新朋友吧。  </p>
+<p>这样的环境塑造了某种“异常”的状态，这种异常决定了第二段经历不会持续太久——<br>没有激情，也没有热情。  </p>
+<p>真是可惜啊，真的可惜。</p>
+<hr>
+
+    </div>
+
+    
+    
+    
+
+      <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/reflection/" rel="tag"># reflection</a>
+          </div>
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/talks/2025-4-24-talk" rel="prev" title="一些回忆">
+      <i class="fa fa-chevron-left"></i> 一些回忆
+    </a></div>
+      <div class="post-nav-item">
+    <a href="/talks/2025-5-3-talk" rel="next" title="工业化比较">
+      工业化比较 <i class="fa fa-chevron-right"></i>
+    </a></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
+  
+
+
+
+          </div>
+          
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+        </div>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line toggle-line-first"></span>
+    <span class="toggle-line toggle-line-middle"></span>
+    <span class="toggle-line toggle-line-last"></span>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+
+      <ul class="sidebar-nav motion-element">
+        <li class="sidebar-nav-toc">
+          Table of Contents
+        </li>
+        <li class="sidebar-nav-overview">
+          Overview
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <div class="post-toc-wrap sidebar-panel">
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%85%B3%E4%BA%8E%E4%B8%A4%E6%AC%A1%E7%BB%8F%E5%8E%86%E5%B7%A8%E5%A4%A7%E5%B7%AE%E5%BC%82%E7%9A%84%E6%80%9D%E8%80%83-%E2%9C%A8"><span class="nav-number">1.</span> <span class="nav-text">关于两次经历巨大差异的思考 ✨</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E9%82%A3%E6%97%B6%E5%80%99%E7%9A%84%E6%97%A5%E5%AD%90-%F0%9F%95%B0%EF%B8%8F"><span class="nav-number">1.1.</span> <span class="nav-text">那时候的日子 🕰️</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%8E%B0%E5%9C%A8%E7%9A%84%E7%8A%B6%E6%80%81-%F0%9F%8C%8F"><span class="nav-number">1.2.</span> <span class="nav-text">现在的状态 🌏</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#27%E5%8F%B7%E6%97%A9%E6%99%A8%E7%9A%84%E5%8F%8D%E6%80%9D-%E2%98%80%EF%B8%8F"><span class="nav-number">2.</span> <span class="nav-text">27号早晨的反思 ☀️</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BB%8F%E5%8E%86%E7%9A%84%E5%BC%80%E5%A7%8B%EF%BC%9A2017%E5%B9%B4%E5%A4%8F%E5%A4%A9-%F0%9F%8C%BF"><span class="nav-number">2.1.</span> <span class="nav-text">第一次经历的开始：2017年夏天 🌿</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BB%8F%E5%8E%86%E7%9A%84%E6%84%9F%E5%8F%97%EF%BC%9A%E9%9D%92%E6%98%A5%E6%BF%80%E6%89%AC-%F0%9F%92%AB"><span class="nav-number">2.2.</span> <span class="nav-text">第一次经历的感受：青春激扬 💫</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%AC%AC%E4%BA%8C%E6%AC%A1%E7%BB%8F%E5%8E%86%E7%9A%84%E5%AF%B9%E6%AF%94%E4%B8%8E%E6%80%9D%E8%80%83-%F0%9F%8C%91"><span class="nav-number">3.</span> <span class="nav-text">第二次经历的对比与思考 🌑</span></a></li></ol></div>
+      </div>
+      <!--/noindex-->
+
+      <div class="site-overview-wrap sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <p class="site-author-name" itemprop="name">John Doe</p>
+  <div class="site-description" itemprop="description"></div>
+</div>
+<div class="site-state-wrap motion-element">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">59</span>
+          <span class="site-state-item-name">posts</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">14</span>
+        <span class="site-state-item-name">tags</span></a>
+      </div>
+  </nav>
+</div>
+
+
+
+      </div>
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+
+        
+
+<div class="copyright">
+  
+  &copy; 
+  <span itemprop="copyrightYear">2025</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">John Doe</span>
+</div>
+  <div class="powered-by">Powered by <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://muse.theme-next.org/" class="theme-link" rel="noopener" target="_blank">NexT.Muse</a>
+  </div>
+
+        
+
+
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  <script src="/lib/anime.min.js"></script>
+  <script src="/lib/velocity/velocity.min.js"></script>
+  <script src="/lib/velocity/velocity.ui.min.js"></script>
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/muse.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+</body>
+</html>

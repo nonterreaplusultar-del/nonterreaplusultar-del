@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.4.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+
+<script id="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"example.com","root":"/","scheme":"Muse","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}};
+  </script>
+
+  <meta name="description" content="最近几年兴起了一股。大众读研热。每一个学校的本科生。在大三下到大四上的那个暑假，都会奔走于各个高校之间，参加他们的保研夏令营。或者是其他名字，但本质一样的活动。这些学子无一不像孔雀开屏一般展示着自己的种种能力。分享着自己在本科期间的。种种的工作。只为得到。对应院校老师的青睐，获得一个研究生的录取通知。可是如果你问他们为什么要这么做？他们只会用特别清澈的眼神来回答你，因为大家都在做。在这条人声鼎沸的">
+<meta property="og:type" content="article">
+<meta property="og:title" content="为什么我不推荐你读博士">
+<meta property="og:url" content="http://example.com/talks/2025-9-25-talk">
+<meta property="og:site_name" content="Hexo">
+<meta property="og:description" content="最近几年兴起了一股。大众读研热。每一个学校的本科生。在大三下到大四上的那个暑假，都会奔走于各个高校之间，参加他们的保研夏令营。或者是其他名字，但本质一样的活动。这些学子无一不像孔雀开屏一般展示着自己的种种能力。分享着自己在本科期间的。种种的工作。只为得到。对应院校老师的青睐，获得一个研究生的录取通知。可是如果你问他们为什么要这么做？他们只会用特别清澈的眼神来回答你，因为大家都在做。在这条人声鼎沸的">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2025-09-25T07:00:00.000Z">
+<meta property="article:modified_time" content="2025-09-29T12:41:09.724Z">
+<meta property="article:author" content="John Doe">
+<meta property="article:tag" content="talks">
+<meta name="twitter:card" content="summary">
+
+<link rel="canonical" href="http://example.com/talks/2025-9-25-talk">
+
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'en'
+  };
+</script>
+
+  <title>为什么我不推荐你读博士 | Hexo</title>
+  
+
+
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="container use-motion">
+    <div class="headband"></div>
+
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="Toggle navigation bar">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <h1 class="site-title">Hexo</h1>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+    </div>
+  </div>
+</div>
+
+
+
+
+<nav class="site-nav">
+  <ul id="menu" class="main-menu menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/" rel="section"><i class="fa fa-home fa-fw"></i>Home</a>
+
+  </li>
+        <li class="menu-item menu-item-about">
+
+    <a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>About</a>
+
+  </li>
+        <li class="menu-item menu-item-tags">
+
+    <a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>Tags</a>
+
+  </li>
+        <li class="menu-item menu-item-categories">
+
+    <a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>Categories</a>
+
+  </li>
+        <li class="menu-item menu-item-archives">
+
+    <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>Archives</a>
+
+  </li>
+        <li class="menu-item menu-item-schedule">
+
+    <a href="/schedule/" rel="section"><i class="fa fa-calendar fa-fw"></i>Schedule</a>
+
+  </li>
+        <li class="menu-item menu-item-sitemap">
+
+    <a href="/sitemap.xml" rel="section"><i class="fa fa-sitemap fa-fw"></i>Sitemap</a>
+
+  </li>
+        <li class="menu-item menu-item-commonweal">
+
+    <a href="/404/" rel="section"><i class="fa fa-heartbeat fa-fw"></i>Commonweal 404</a>
+
+  </li>
+  </ul>
+</nav>
+
+
+
+
+</div>
+    </header>
+
+    
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content post posts-expand">
+            
+
+    
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
+    <link itemprop="mainEntityOfPage" href="http://example.com/talks/2025-9-25-talk">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="John Doe">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Hexo">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          为什么我不推荐你读博士
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">Posted on</span>
+
+              <time title="Created: 2025-09-25 00:00:00" itemprop="dateCreated datePublished" datetime="2025-09-25T00:00:00-07:00">2025-09-25</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">Edited on</span>
+                <time title="Modified: 2025-09-29 05:41:09" itemprop="dateModified" datetime="2025-09-29T05:41:09-07:00">2025-09-29</time>
+              </span>
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+        <p>最近几年兴起了一股。大众读研热。每一个学校的本科生。在大三下到大四上的那个暑假，都会奔走于各个高校之间，参加他们的保研夏令营。或者是其他名字，但本质一样的活动。这些学子无一不像孔雀开屏一般展示着自己的种种能力。分享着自己在本科期间的。种种的工作。只为得到。对应院校老师的青睐，获得一个研究生的录取通知。可是如果你问他们为什么要这么做？他们只会用特别清澈的眼神来回答你，因为大家都在做。在这条人声鼎沸的赛道上，每一个人参与者保研或者考研的竞争。大家一起追逐着更高的学历。你期望有更好的未来。可是如果你细细追问的话，为什么大家都在做的话，你也需要做。被问之人往往打不出个所以然来。只能在口中泛泛地讲出。读研之后，我的薪资水平会更高。读博之后，我的未来发展平台会更高。反正在没有毕业之前,没有真切的体会到读研究生给自己带来的好处，给自己人生带来的助力。已经给自己画好了一个充满光明的。康庄大道。那么。存在于这些学生脑海中的康庄大道，光明未来。究竟。与他们所期待的一不一样呢？我觉得这是一个问题。需要被好好疼。</p>
+<p>首先是关于薪资问题。以计算机行业为例，一个本科生毕业的薪资和一个研究生毕业的薪资相差是很大的。本科生的薪资最多也是年薪四十万左右。以硕士研究生为例，薪资可以达到五六十万甚至于七八十万。博士研究生毕业之后薪资七八十万到一百万都大有人在。所以无数学生都为了这个理由挤破脑袋。进去读研究生。可是这些让人看到的特别高的高薪，本质上不过是一种幸存者偏差。因为只有拿到特别高的高薪的。研究生才会将自己的高薪主动的爆料出来。而那些没有拿到特别高的高薪的。肯定。大概率也许比本科生的薪资更高吧。但这又涉及到另外一个问题。就是性价比问题。是这样一种情况，如果每年复读都能提高二十分，有多少人会坚持下来呢？不是说多读一年，对于自己的分数提高没有意义。而是多读的这一年。对于自己人生的助力。和自己失去的代价？在度个天平上是否相等的？<br>自己放弃了自己最美好的青春年华。在那样一个充满活力，身体健康，思维敏捷的黄金十年中，干的只有实验室中的那些实验，每天不仅要承受极大的压力，在导师的催促声中，在能不能按时毕业的压力中，在众人对于你的期许中，能不能达到自己的那个彼岸？<br>现在的中国人一生都在追求上岸，因为环境的不确定性，导致他们极度渴望安全感，这种安全感能够让中国人在暴风雨来临的时候平安无事，仿佛圣经大洪水中的诺亚方舟。因此，中国人极力美化彼岸，极力追逐登上彼岸。可这世上真的有彼岸吗？只有一种境况和另外一种境况的不同罢了，本质上都是海洋，只是这片海洋暂时平静，那片海洋波涛汹涌罢了。且看大禹治水，疏堵结合，最后人定胜天。中国人从来就应该是健壮的水手，在海洋中遨游，或者乘风破浪，一往无前，或者仰面调息，暂时休息。这样才能确保自己的永久安全。这种安全从来只会来自于自身的力量，而不是外界的保障。</p>
+<p>即使有了杰出的成果，在三十岁之后事业有成，在职业岗位上呼风唤雨，在北京成家立业，可是这真是自己原来想要的生活吗？《明朝那些事儿》的最后，写的是徐霞客，为什么用徐霞客结尾呢？因为所有的宏图伟业，英雄事迹在百年之后不过是过眼云烟。纵情山水，躲开世间的纷繁杂乱，摒弃那些功名利禄，实实在在做自己，欣赏这世间的美丽，不也是一件好事？平平淡淡地过着自己地小日子，做一个市井百姓，庸人又何尝不可？</p>
+<p>再者，有多少人喜欢科研？能在日复一日地实验中保持热情？这世上大多数人是不适合读博士的。毕业要求高，五年六年生活枯燥，在日复一日的劳动中，又有多少快乐呢？扪心自问，自己真的喜欢研究生的环境和氛围吗？大部分人都是选择硕士不是博士就已经能够说明问题了。大家都不喜欢，都想呆三年就赶紧走，不想多留一刻。这就是现实。只有极少数人喜欢科研。</p>
+<p>不是说读博士没有收益，而是这个收益和自己付出的比率是否合适？我觉得读博其实低性价比选择。</p>
+
+    </div>
+
+    
+    
+    
+
+      <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/talks/" rel="tag"># talks</a>
+          </div>
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/talks/2025-9-14-talk" rel="prev" title="近期杂谈">
+      <i class="fa fa-chevron-left"></i> 近期杂谈
+    </a></div>
+      <div class="post-nav-item">
+    <a href="/2025/09/29/2016-06-12-HEXO_Advanced/" rel="next" title="HEXO进阶">
+      HEXO进阶 <i class="fa fa-chevron-right"></i>
+    </a></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
+  
+
+
+
+          </div>
+          
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+        </div>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line toggle-line-first"></span>
+    <span class="toggle-line toggle-line-middle"></span>
+    <span class="toggle-line toggle-line-last"></span>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+
+      <ul class="sidebar-nav motion-element">
+        <li class="sidebar-nav-toc">
+          Table of Contents
+        </li>
+        <li class="sidebar-nav-overview">
+          Overview
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <div class="post-toc-wrap sidebar-panel">
+      </div>
+      <!--/noindex-->
+
+      <div class="site-overview-wrap sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <p class="site-author-name" itemprop="name">John Doe</p>
+  <div class="site-description" itemprop="description"></div>
+</div>
+<div class="site-state-wrap motion-element">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">59</span>
+          <span class="site-state-item-name">posts</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">14</span>
+        <span class="site-state-item-name">tags</span></a>
+      </div>
+  </nav>
+</div>
+
+
+
+      </div>
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+
+        
+
+<div class="copyright">
+  
+  &copy; 
+  <span itemprop="copyrightYear">2025</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">John Doe</span>
+</div>
+  <div class="powered-by">Powered by <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://muse.theme-next.org/" class="theme-link" rel="noopener" target="_blank">NexT.Muse</a>
+  </div>
+
+        
+
+
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  <script src="/lib/anime.min.js"></script>
+  <script src="/lib/velocity/velocity.min.js"></script>
+  <script src="/lib/velocity/velocity.ui.min.js"></script>
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/muse.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+</body>
+</html>
