@@ -20,19 +20,20 @@
     var CONFIG = {"hostname":"example.com","root":"/","scheme":"Muse","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}};
   </script>
 
-  <meta name="description" content="Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick">
+  <meta name="description" content="我们从哪里开始？—— 这个问题问得很好 😊但为了我能更有针对性地帮你——你想从哪方面开始？   可以给我一点上下文，比如：    你指的是哪一个项目或任务？（例如：论文写作、CPU设计、PyTorch分析、面试准备等）   你希望我带着你做（一起规划、分步执行）还是帮你生成初稿？  只要告诉我一点方向，我就能立刻带你进入正确的起点。👉 想从哪个“开始”？    我是指我和五年前的前女友之间的感">
 <meta property="og:type" content="article">
-<meta property="og:title" content="欢迎">
-<meta property="og:url" content="http://example.com/2025/09/29/about/index.html">
+<meta property="og:title" content="The Unforgettable">
+<meta property="og:url" content="http://example.com/talks/2025-10-23-talk">
 <meta property="og:site_name" content="Hexo">
-<meta property="og:description" content="Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick">
+<meta property="og:description" content="我们从哪里开始？—— 这个问题问得很好 😊但为了我能更有针对性地帮你——你想从哪方面开始？   可以给我一点上下文，比如：    你指的是哪一个项目或任务？（例如：论文写作、CPU设计、PyTorch分析、面试准备等）   你希望我带着你做（一起规划、分步执行）还是帮你生成初稿？  只要告诉我一点方向，我就能立刻带你进入正确的起点。👉 想从哪个“开始”？    我是指我和五年前的前女友之间的感">
 <meta property="og:locale" content="en_US">
-<meta property="article:published_time" content="2025-09-29T12:41:09.724Z">
-<meta property="article:modified_time" content="2025-09-29T12:41:09.724Z">
+<meta property="article:published_time" content="2025-10-23T07:00:00.000Z">
+<meta property="article:modified_time" content="2025-10-23T13:53:40.884Z">
 <meta property="article:author" content="John Doe">
+<meta property="article:tag" content="talks">
 <meta name="twitter:card" content="summary">
 
-<link rel="canonical" href="http://example.com/2025/09/29/about/">
+<link rel="canonical" href="http://example.com/talks/2025-10-23-talk">
 
 
 <script id="page-configurations">
@@ -45,7 +46,7 @@
   };
 </script>
 
-  <title>欢迎 | Hexo</title>
+  <title>The Unforgettable | Hexo</title>
   
 
 
@@ -180,7 +181,7 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
-    <link itemprop="mainEntityOfPage" href="http://example.com/2025/09/29/about/">
+    <link itemprop="mainEntityOfPage" href="http://example.com/talks/2025-10-23-talk">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.gif">
@@ -193,7 +194,7 @@
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
-          欢迎
+          The Unforgettable
         </h1>
 
         <div class="post-meta">
@@ -202,8 +203,9 @@
                 <i class="far fa-calendar"></i>
               </span>
               <span class="post-meta-item-text">Posted on</span>
+              
 
-              <time title="Created: 2025-09-29 05:41:09" itemprop="dateCreated datePublished" datetime="2025-09-29T05:41:09-07:00">2025-09-29</time>
+              <time title="Created: 2025-10-23 00:00:00 / Modified: 06:53:40" itemprop="dateCreated datePublished" datetime="2025-10-23T00:00:00-07:00">2025-10-23</time>
             </span>
 
           
@@ -217,19 +219,55 @@
     <div class="post-body" itemprop="articleBody">
 
       
-        <p>Welcome to <a target="_blank" rel="noopener" href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a target="_blank" rel="noopener" href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a target="_blank" rel="noopener" href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a target="_blank" rel="noopener" href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+        <p>我们从哪里开始？<br>—— 这个问题问得很好 😊<br>但为了我能更有针对性地帮你——你想从哪方面开始？  </p>
+<p>可以给我一点上下文，比如：  </p>
+<ul>
+<li>你指的是<strong>哪一个项目或任务</strong>？（例如：论文写作、CPU设计、PyTorch分析、面试准备等）  </li>
+<li>你希望我<strong>带着你做</strong>（一起规划、分步执行）还是<strong>帮你生成初稿</strong>？</li>
+</ul>
+<p>只要告诉我一点方向，我就能立刻带你进入正确的起点。<br>👉 想从哪个“开始”？  </p>
+<hr>
+<p>我是指我和五年前的前女友之间的感情？<br>—— 谢谢你愿意说这个。能问一句：你说“从哪里开始”，是想——  </p>
+<ul>
+<li><strong>重新联系她</strong>、看看还有没有可能？  </li>
+<li>还是<strong>想整理自己的情绪</strong>、理清这段关系的意义？  </li>
+<li>或者只是<strong>想聊聊</strong>这段感情、回顾和放下？</li>
+</ul>
+<p>不同方向，我的建议会完全不一样。<br>要不要先告诉我一点现在的状况？比如——<br>你们五年前分开后有再联系过吗？你最近为什么会想到她？  </p>
+<hr>
+<p>只是想聊聊这段感情、回顾和放下<br>—— 那很好——这其实是最成熟、也最温柔的选择。<br>回顾并放下，代表你想和过去达成和解，而不是被它拖着走。  </p>
+<p>我们可以这样慢慢聊，不急着结论：  </p>
+<ol>
+<li>你可以先告诉我一点——<br>💬 你们是怎么认识的？<br>💬 那段关系里，有什么让你特别难忘（好的或坏的）？  </li>
+<li>然后我们再一起看看，哪些情绪或回忆还“卡”在你心里，没被完全放下。  </li>
+<li>最后我可以帮你梳理一个“告别与释怀”的仪式或文字，让这段故事有一个温柔的句点。</li>
+</ol>
+<p>你愿意从第一个问题开始吗？<br>——你们当初是怎么认识的？  </p>
+<hr>
+<p>我们是高中同学，她对我很好，但是我辜负了那段感情，由于我的不成熟，我没有在那段感情里面好好珍惜她，直到失去的时候才追悔莫及<br>—— 这段话已经能听出很多情感的重量。你在说的时候，其实也在做一件很重要的事——<strong>诚实地面对过去的自己</strong>。这比你想的要难得多。  </p>
+<p>听起来，她在你生命里留下了一个温柔的印记，而“辜负”与“追悔”成了你心里的一根刺。<br>有时候我们太年轻，不懂表达、不懂珍惜，也不懂怎样去爱；等懂了，却已经错过。<br>这种感觉，就像时间只给你一次机会去演一场戏，而你直到谢幕后才明白台词的意义。  </p>
+<p>我想问问你：<br>如果现在的你能回到那段时间，对那时的自己或对她说一句话，你最想说什么？  </p>
+<hr>
+<p>珍惜那些真正爱你的人<br>—— 这句话很有力量，也很真诚。<br>它像是一种醒悟，更像是你写给过去自己的箴言。  </p>
+<p>有时候，人要经历失去，才能理解“被爱”其实是多么难得的一件事。那种被无条件在乎、被真心对待的时光，会在我们心里留下一处柔软的地方——<br>它提醒我们：以后遇见爱，要学会回应；被关心时，要懂得珍惜。  </p>
+<p>如果你愿意，我们可以继续往下聊：<br>想不想回忆一下她最让你感动的瞬间？<br>不为重燃旧情，只是为了让自己真正地“看清楚”，再温柔地放下。  </p>
+<hr>
+<p>我中考考得不是很好，只能去全省第三的高中，她知道了这个消息，义无反顾地来到了那个高中来陪我，我问她你为什么来这里？她只是说着其他的话，并不触碰到那个真正的原因<br>—— 这真是一段令人心酸又温柔的记忆。<br>她其实已经用行动回答了你所有的疑问，只是那时的你——像大多数十几岁的我们一样——还不懂那种“默默的爱”意味着什么。  </p>
+<p>她不说出理由，也许是怕你有压力，怕你觉得自己“欠”了她；<br>也可能只是单纯地想陪在你身边，看着你好一点。<br>这种爱，带着一种青涩的笨拙，却又真得几乎让人心疼。  </p>
+<p>你现在还能记得她当时的表情或语气吗？<br>如果你闭上眼再去想那一幕，你觉得最让你触动的是什么——是她的坚定，还是她那种装作若无其事的温柔？  </p>
+<hr>
+<p>最让人触动的是温柔和那份爱我的坚定，可是往事都随风飘散了，我也不愿意去打扰人家了，但是自己却被困在回忆里了<br>—— 我能理解你的感受。<br>这种“明知道不能回头，却又舍不得放下”的状态，很常见，也很真实。你的心里有两个声音在拉扯：  </p>
+<ol>
+<li><strong>理智的你</strong>——懂得尊重她的生活，不去打扰，也不想重蹈过去的错误。  </li>
+<li><strong>情感的你</strong>——被那份温柔和坚定牵着，回忆像影子一样跟着你。</li>
+</ol>
+<p>被困在回忆里，不是坏事——它说明你在认真感受过爱，也学会了珍惜。只是，如果一直停留，你就会错过未来的温暖。  </p>
+<p>有一个办法可以慢慢放下：<strong>给过去一个仪式感的告别</strong>。<br>比如：  </p>
+<ul>
+<li>写一封信给她（不寄出），告诉她你曾经的懊悔、感激，以及你对她最真诚的祝福。  </li>
+<li>写完后，把信收好或象征性地放下，告诉自己：这段感情已经给你带来了成长，你带着感激走向未来。</li>
+</ul>
+<h2 id="如果你愿意，我可以帮你一步步写这样一封信，让它既表达悔意，也带着温柔的告别。你想试试吗？"><a href="#如果你愿意，我可以帮你一步步写这样一封信，让它既表达悔意，也带着温柔的告别。你想试试吗？" class="headerlink" title="如果你愿意，我可以帮你一步步写这样一封信，让它既表达悔意，也带着温柔的告别。你想试试吗？"></a>如果你愿意，我可以帮你一步步写这样一封信，让它既表达悔意，也带着温柔的告别。<br>你想试试吗？</h2><p>我不想写，不是因为我不够爱，而是因为我已经写过一封了</p>
 
     </div>
 
@@ -238,6 +276,9 @@
     
 
       <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/talks/" rel="tag"># talks</a>
+          </div>
 
         
 
@@ -245,12 +286,12 @@
         
     <div class="post-nav">
       <div class="post-nav-item">
-    <a href="/2025/09/29/2016-06-12-HEXO_Advanced/" rel="prev" title="HEXO进阶">
-      <i class="fa fa-chevron-left"></i> HEXO进阶
+    <a href="/2025/09/29/about/" rel="prev" title="欢迎">
+      <i class="fa fa-chevron-left"></i> 欢迎
     </a></div>
       <div class="post-nav-item">
-    <a href="/talks/2025-10-23-talk" rel="next" title="The Unforgettable">
-      The Unforgettable <i class="fa fa-chevron-right"></i>
+    <a href="/talks/2025-9-25-talk" rel="next" title="永恒的盛夏-新国立放学随笔">
+      永恒的盛夏-新国立放学随笔 <i class="fa fa-chevron-right"></i>
     </a></div>
     </div>
       </footer>
@@ -310,7 +351,7 @@
 
       <!--noindex-->
       <div class="post-toc-wrap sidebar-panel">
-          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Quick-Start"><span class="nav-number">1.</span> <span class="nav-text">Quick Start</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#Create-a-new-post"><span class="nav-number">1.1.</span> <span class="nav-text">Create a new post</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Run-server"><span class="nav-number">1.2.</span> <span class="nav-text">Run server</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Generate-static-files"><span class="nav-number">1.3.</span> <span class="nav-text">Generate static files</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#Deploy-to-remote-sites"><span class="nav-number">1.4.</span> <span class="nav-text">Deploy to remote sites</span></a></li></ol></li></ol></div>
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%84%BF%E6%84%8F%EF%BC%8C%E6%88%91%E5%8F%AF%E4%BB%A5%E5%B8%AE%E4%BD%A0%E4%B8%80%E6%AD%A5%E6%AD%A5%E5%86%99%E8%BF%99%E6%A0%B7%E4%B8%80%E5%B0%81%E4%BF%A1%EF%BC%8C%E8%AE%A9%E5%AE%83%E6%97%A2%E8%A1%A8%E8%BE%BE%E6%82%94%E6%84%8F%EF%BC%8C%E4%B9%9F%E5%B8%A6%E7%9D%80%E6%B8%A9%E6%9F%94%E7%9A%84%E5%91%8A%E5%88%AB%E3%80%82%E4%BD%A0%E6%83%B3%E8%AF%95%E8%AF%95%E5%90%97%EF%BC%9F"><span class="nav-number">1.</span> <span class="nav-text">如果你愿意，我可以帮你一步步写这样一封信，让它既表达悔意，也带着温柔的告别。你想试试吗？</span></a></li></ol></div>
       </div>
       <!--/noindex-->
 
