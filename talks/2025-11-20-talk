@@ -20,20 +20,20 @@
     var CONFIG = {"hostname":"jerrylove.qzz.io","root":"/","scheme":"Mist","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}};
   </script>
 
-  <meta name="description" content="今天晚上我和我的妹妹出去在附近的马路上走走。我和妹妹都在家里呆了一天，所以晚上出去走走散散心，顺便活动活动筋骨。这时候。我的妹妹问我一个问题如果给你三个月要。三个愿望你会许什么愿望呢？我基本没有经过任何思考便脱口而出第一个愿望，我需得需要变得非常有钱。第二个愿望，我需要能够回到最开始的地方。其实就是想把过去的事情再经历一遍。然后我说了一句，我并不贪心两个愿望就足够了。是呀，两个愿望就足够了。可是并">
+  <meta name="description" content="今天也算是一个平平无奇的日子吧。早上八点钟闹钟醒来。十分赖床，十分想在床上多躺一会。但是由于自己还有事情，自己还要写。等会儿课的作业交上去所以就无奈地起床了。如果有选择的话，我一定不会起床的，一定在想多睡一会儿。究其原因，是因为我昨天晚上睡的太晚了一点，多刷抖音。如果还能选择的话，我一定要选择这个，早睡早起，我觉得这样才能符合我的身体好。然后就是上课，中午叫陈树生一起出来吃饭，吃了。一百元的饭。但">
 <meta property="og:type" content="article">
-<meta property="og:title" content="写给未来">
-<meta property="og:url" content="https://jerrylove.qzz.io/talks/2025-8-1-1-talk">
+<meta property="og:title" content="起居注">
+<meta property="og:url" content="https://jerrylove.qzz.io/talks/2025-11-20-talk">
 <meta property="og:site_name" content="Jerrylove&#39;s Blog">
-<meta property="og:description" content="今天晚上我和我的妹妹出去在附近的马路上走走。我和妹妹都在家里呆了一天，所以晚上出去走走散散心，顺便活动活动筋骨。这时候。我的妹妹问我一个问题如果给你三个月要。三个愿望你会许什么愿望呢？我基本没有经过任何思考便脱口而出第一个愿望，我需得需要变得非常有钱。第二个愿望，我需要能够回到最开始的地方。其实就是想把过去的事情再经历一遍。然后我说了一句，我并不贪心两个愿望就足够了。是呀，两个愿望就足够了。可是并">
+<meta property="og:description" content="今天也算是一个平平无奇的日子吧。早上八点钟闹钟醒来。十分赖床，十分想在床上多躺一会。但是由于自己还有事情，自己还要写。等会儿课的作业交上去所以就无奈地起床了。如果有选择的话，我一定不会起床的，一定在想多睡一会儿。究其原因，是因为我昨天晚上睡的太晚了一点，多刷抖音。如果还能选择的话，我一定要选择这个，早睡早起，我觉得这样才能符合我的身体好。然后就是上课，中午叫陈树生一起出来吃饭，吃了。一百元的饭。但">
 <meta property="og:locale" content="en_US">
-<meta property="article:published_time" content="2025-08-01T07:00:00.000Z">
-<meta property="article:modified_time" content="2025-09-29T12:41:09.716Z">
+<meta property="article:published_time" content="2025-11-20T08:00:00.000Z">
+<meta property="article:modified_time" content="2025-11-20T13:39:30.860Z">
 <meta property="article:author" content="Richard Lee">
-<meta property="article:tag" content="letter">
+<meta property="article:tag" content="talks">
 <meta name="twitter:card" content="summary">
 
-<link rel="canonical" href="https://jerrylove.qzz.io/talks/2025-8-1-1-talk">
+<link rel="canonical" href="https://jerrylove.qzz.io/talks/2025-11-20-talk">
 
 
 <script id="page-configurations">
@@ -46,7 +46,7 @@
   };
 </script>
 
-  <title>写给未来 | Jerrylove's Blog</title>
+  <title>起居注 | Jerrylove's Blog</title>
   
 
 
@@ -171,7 +171,7 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
-    <link itemprop="mainEntityOfPage" href="https://jerrylove.qzz.io/talks/2025-8-1-1-talk">
+    <link itemprop="mainEntityOfPage" href="https://jerrylove.qzz.io/talks/2025-11-20-talk">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/me.jpg">
@@ -184,7 +184,7 @@
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
-          写给未来
+          起居注
         </h1>
 
         <div class="post-meta">
@@ -193,16 +193,10 @@
                 <i class="far fa-calendar"></i>
               </span>
               <span class="post-meta-item-text">Posted on</span>
+              
 
-              <time title="Created: 2025-08-01 00:00:00" itemprop="dateCreated datePublished" datetime="2025-08-01T00:00:00-07:00">2025-08-01</time>
+              <time title="Created: 2025-11-20 00:00:00 / Modified: 05:39:30" itemprop="dateCreated datePublished" datetime="2025-11-20T00:00:00-08:00">2025-11-20</time>
             </span>
-              <span class="post-meta-item">
-                <span class="post-meta-item-icon">
-                  <i class="far fa-calendar-check"></i>
-                </span>
-                <span class="post-meta-item-text">Edited on</span>
-                <time title="Modified: 2025-09-29 05:41:09" itemprop="dateModified" datetime="2025-09-29T05:41:09-07:00">2025-09-29</time>
-              </span>
 
           
 
@@ -215,17 +209,7 @@
     <div class="post-body" itemprop="articleBody">
 
       
-        <p>今天晚上我和我的妹妹出去在附近的马路上走走。我和妹妹都在家里呆了一天，所以晚上出去走走散散心，顺便活动活动筋骨。这时候。我的妹妹问我一个问题如果给你三个月要。三个愿望你会许什么愿望呢？我基本没有经过任何思考便脱口而出第一个愿望，我需得需要变得非常有钱。第二个愿望，我需要能够回到最开始的地方。其实就是想把过去的事情再经历一遍。然后我说了一句，我并不贪心两个愿望就足够了。是呀，两个愿望就足够了。可是并没有一个神会给我这样的机会来让我实现这两个愿望。或者说如果我真有一个神的话那么是现在的自己。因为现在的自己可以通过努力来帮助未来的自己实现这两个愿望。这有点象是和未来者自己对话或者写下这篇文章，是为了给未来自己看未来的自己，他一定会更加的优秀。更加的从容，更加的幸福。而现在的自己呢，会用对于未来自己的美好想象来抵抗现在的苦难。这种未来支援现在现在反哺未来的想法。对于身处苦难中的自己来说，是非常有用的。在2022年我自己复读的时候。我常常会想象自己高考完了之后会去干什么。我会狠狠地玩我的电脑游戏我会狠狠地找自己的朋友出去玩。我会竭尽所能地放松。我用尽一切力气来美好的想象自己高考完之后的生活。用高考完之后的美好来对冲高考之前的苦难。我常常在夜里崩溃。在复读那一年，我需要在夜里不断进食因为进食产生的多巴胺能够使我心情愉悦。我靠着这种方法才能够微微地缓解自己几乎快要崩掉的精神系统。我还记得那个时候我总是一点就躺上床，但是我一点睡不着快要到凌晨3.4点才能睡着，然后在早晨的。快七点钟，6点50。我就会醒来。十分痛苦的，机械式的醒来。去操场上跑圈儿。直到现在，我也无法。确定我是如何度过那段时间的。我说感谢的可能会有周同学和孙同学。这两位同学经常在晚自习和我在操场上走圈儿。我很感谢他们，因为是他们的陪伴，他们和我的他们走圈，让我在。那样的情况下。有一丝丝的喘息的机会。虽然我和周同学并没有最终成为情侣，但是我对于周同学的评价还是很高的。</p>
-<p>而我的老朋友呢？我的老朋友自始至终没有来铁一中看过我一回。完全没有一回。或许我并不应该称其为老朋友。而应称其为陌生人，因为他做的只是一个普通陌生人应该做的事情而已。并不管我的死活。这所谓情已逝，不应再要求对方做些什么。也不会怪人家。当然，今晚我写这篇文章的目的并不是批判。我是想探讨苦难对于人生的价值，这是一个非常非常宏大的命题，我只能从一个侧面来切入。</p>
-<blockquote>
-<p>有的人说，苦难是人生的一笔财富，我从来不这么认为。苦难从来不是人生的财富，它是折磨人。消灭人的有力工具。真正使人财富的是经历过苦难之后锻炼出来的那种坚韧不拔的毅力。超人的忍耐力。与18般武艺。这些勇敢的心。勤奋的手。才能够创造一个又一个的奇迹。<br>经历苦难之后的礼物更加宝贵。那些对于人生的领悟。那些心平气和的时候所观察到的世态炎凉。才是真正的。对于之后人生的宝藏。不知道在十年之后，我会不会感谢现在经受磨难的自己。因为至少我写下了一篇文章来记录我当时的心态。现在的自己可找不到我十年之前写的文章。更加弄不懂我十年前是什么想。<br>2025年了一切都结束了。我对于自己的人生规划也应该进入下一个的。阶段。我想要一飞冲天，位列仙班。变得家喻户晓，天下闻名。到时候我或许会回到最开始的地方去找那个最开始的人。然后问问他的意见问问他有没有后悔。主要是想用。会稽愚妇的典故来羞辱羞辱他。或许我变得家喻户晓之后便不会有这么心胸狭窄的想法。现在的我也没有这个想法，更多的是想再见一见他。我自己内心对于他的好印象还是太多了。见一见他便会去伪存真，看一看他真实的样子。也好，更加轻便的向前走丢掉我那些不切实际的幻想。这些不切实际的幻想是我之前苦难的时候自我催眠，植入到自己内心的。我在利用这些幻想我也被这些幻想反噬。我只能说这些幻想是一把双刃剑。</p>
-</blockquote>
-<p>我还是很喜欢这样夜晚谈话的方式来记录自己内心的状态。因为我是口述口述便不会经过大脑太多的分析。大脑分析太多，便失去了自己内心真正的想法。只有这种即时即刻的叙述，才能够代表自己内心真实的所见所闻。才能够在。效率和速度的压迫下，让自己内心的真实想法流露出。反正比国民政府军事委员会主席的写日记还是好了不少。因为他写日记写出来的肯定不是心里话。而我由心到口。心里小口即出。这样效率高了不少。伪装变少了不少。如果有幸有人发现了我的个人网站，看到了我的文章，他也会有所感触。这个人喜欢张，绝对是他内心最真实的想法。无论是见到光的想法还是不见得光的想法，他都可以写出来。这才有一点点心里话的样子。</p>
-<p>多年以后的自己呀你会幸福吗？我觉得你会因为现在的我经历苦难却仍然努力的奋斗着。我希望多年以后你看到这篇文章。看到这个时候的我的苦难，看到这个时候我绝望的努力。请你给身边爱人说一声。请你给自己的后代讲述一下。自己当年是如何如何奋斗？真心很痛苦，真心很煎熬。但却珍惜在努力奋斗。</p>
-<hr>
-<blockquote>
-<p>多年以后的自己，如果你当时看到了这篇文章。请给出恋姐和前女友都发个消息问一问。问问他们最近好吗？也就是说你最近登顶了想知道他们的近况看看对他们最近好不好。</p>
-</blockquote>
+        <p>今天也算是一个平平无奇的日子吧。早上八点钟闹钟醒来。十分赖床，十分想在床上多躺一会。但是由于自己还有事情，自己还要写。等会儿课的作业交上去所以就无奈地起床了。如果有选择的话，我一定不会起床的，一定在想多睡一会儿。究其原因，是因为我昨天晚上睡的太晚了一点，多刷抖音。如果还能选择的话，我一定要选择这个，早睡早起，我觉得这样才能符合我的身体好。然后就是上课，中午叫陈树生一起出来吃饭，吃了。一百元的饭。但是发现两个人根本吃不完。这也就是在雁栖湖，只要放到北京市内。人均一百起步，压根就不会人均五十还吃不完人均一百在室内的话吃都吃不饱。点的是锅包肉水煮肉片，还有一个果和豆腐，我觉得都挺不错的，吃着还挺好吃的。就是有点腻。如果有可以选择的话，我还是挺希望看到去那里吃饭的，但是那里的饭菜比较昂贵，我每个月只有八百的。法师，法师补贴所以就不太够。当然今天还是平平无奇的一天感觉也没有什么可以纪念的。但是还得纪念因为不纪念的话。一天就真的平平无奇了。只要你持续几年，说不定在未来的某一天，你看到这些记录的时候就会觉得其实还行。重要的不是记录的什么，我觉得是记录这个行为本身。记录它本就意味着不遗忘不遗忘便是这世上最大的好。很多人啊，过了一辈子，但是。却遗忘了很多。终其一生，回首自己的过往，发现没有什么可以拿出来说的。我不希望这样，我希望我有很多很多可以说的，所以我要常常记录，每天要运动，每天要记录这这样的话才能够。不辜负吧。今天晚上我在健身房里面运动了大概快有一个小时。我觉得很好。我充分燃烧了我中午吃饭的时候吃饭，我中午吃的真的不少。脂肪，绝对也吃的不多。感觉特别油腻。但是没有办法吃就已经吃过了。吃下去的，能吐出来不成。所以就单纯的吃，只要自己开心，单纯的喝，只要自己开心。过好每一天就行了。世上本或许没有那么多值得记录的。只是记录，这个行为本身确实有很多的意义。</p>
 
     </div>
 
@@ -235,7 +219,7 @@
 
       <footer class="post-footer">
           <div class="post-tags">
-              <a href="/tags/letter/" rel="tag"># letter</a>
+              <a href="/tags/talks/" rel="tag"># talks</a>
           </div>
 
         
@@ -244,12 +228,12 @@
         
     <div class="post-nav">
       <div class="post-nav-item">
-    <a href="/talks/2025-8-1-talk" rel="prev" title="致未来爱人的信">
-      <i class="fa fa-chevron-left"></i> 致未来爱人的信
+    <a href="/talks/2025-11-19-talk" rel="prev" title="健身困难">
+      <i class="fa fa-chevron-left"></i> 健身困难
     </a></div>
       <div class="post-nav-item">
-    <a href="/talks/2025-8-2-talk" rel="next" title="刷完HOT100感想">
-      刷完HOT100感想 <i class="fa fa-chevron-right"></i>
+    <a href="/talks/2025-11-21-talk" rel="next" title="起居注">
+      起居注 <i class="fa fa-chevron-right"></i>
     </a></div>
     </div>
       </footer>
