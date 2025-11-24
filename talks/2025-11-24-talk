@@ -20,17 +20,20 @@
     var CONFIG = {"hostname":"jerrylove.qzz.io","root":"/","scheme":"Mist","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"hide","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.json"};
   </script>
 
-  <meta name="description" content="cherish what I lost and return my better future">
-<meta property="og:type" content="website">
-<meta property="og:title" content="Jerrylove&#39;s Blog">
-<meta property="og:url" content="https://jerrylove.qzz.io/archives/2025/11/index.html">
+  <meta name="description" content="现在开始也是开始做论文啊。但是我一看到论文就头疼，怎么办？我一想到自己接下来的五年都是这个鬼样子，我都不免的担心。自己要是坚持不下去怎么办？哎呀，真的就离谱。我也不知道自己为什么要读博士。原因很简单，我没找到工作。我要找工作我就直接回家工作去了。哎哟，我的天哪。经济环境为什么不好呀？为什么那些大厂不多给人一些offer。我只想拿一个年薪四十万的package，然后我就美美地去工作了，我就和这些学校">
+<meta property="og:type" content="article">
+<meta property="og:title" content="起居注">
+<meta property="og:url" content="https://jerrylove.qzz.io/talks/2025-11-24-talk">
 <meta property="og:site_name" content="Jerrylove&#39;s Blog">
-<meta property="og:description" content="cherish what I lost and return my better future">
+<meta property="og:description" content="现在开始也是开始做论文啊。但是我一看到论文就头疼，怎么办？我一想到自己接下来的五年都是这个鬼样子，我都不免的担心。自己要是坚持不下去怎么办？哎呀，真的就离谱。我也不知道自己为什么要读博士。原因很简单，我没找到工作。我要找工作我就直接回家工作去了。哎哟，我的天哪。经济环境为什么不好呀？为什么那些大厂不多给人一些offer。我只想拿一个年薪四十万的package，然后我就美美地去工作了，我就和这些学校">
 <meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2025-11-24T08:00:00.000Z">
+<meta property="article:modified_time" content="2025-11-24T13:20:42.218Z">
 <meta property="article:author" content="Richard Lee">
+<meta property="article:tag" content="talks">
 <meta name="twitter:card" content="summary">
 
-<link rel="canonical" href="https://jerrylove.qzz.io/archives/2025/11/">
+<link rel="canonical" href="https://jerrylove.qzz.io/talks/2025-11-24-talk">
 
 
 <script id="page-configurations">
@@ -38,12 +41,12 @@
   CONFIG.page = {
     sidebar: "",
     isHome : false,
-    isPost : false,
+    isPost : true,
     lang   : 'en'
   };
 </script>
 
-  <title>Archive | Jerrylove's Blog</title>
+  <title>起居注 | Jerrylove's Blog</title>
   
 
 
@@ -184,171 +187,82 @@
         <div class="content-wrap">
           
 
-          <div class="content archive">
+          <div class="content post posts-expand">
             
 
+    
   
   
-  
-  <div class="post-block">
-    <div class="posts-collapse">
-      <div class="collection-title">
-        
-        <span class="collection-header">Nice! 62 posts in total. Keep on posting.</span>
-      </div>
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
+    <link itemprop="mainEntityOfPage" href="https://jerrylove.qzz.io/talks/2025-11-24-talk">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/me.jpg">
+      <meta itemprop="name" content="Richard Lee">
+      <meta itemprop="description" content="cherish what I lost and return my better future">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Jerrylove's Blog">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          起居注
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">Posted on</span>
+              
+
+              <time title="Created: 2025-11-24 00:00:00 / Modified: 05:20:42" itemprop="dateCreated datePublished" datetime="2025-11-24T00:00:00-08:00">2025-11-24</time>
+            </span>
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
 
       
-    <div class="collection-year">
-      <span class="collection-header">2025</span>
-    </div>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-
-      <div class="post-meta">
-        <time itemprop="dateCreated"
-              datetime="2025-11-24T00:00:00-08:00"
-              content="2025-11-24">
-          11-24
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/talks/2025-11-24-talk" itemprop="url">
-            <span itemprop="name">起居注</span>
-          </a>
-      </div>
-
-    </header>
-  </article>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-
-      <div class="post-meta">
-        <time itemprop="dateCreated"
-              datetime="2025-11-22T00:00:00-08:00"
-              content="2025-11-22">
-          11-22
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/talks/2025-11-22-talk" itemprop="url">
-            <span itemprop="name">起居注</span>
-          </a>
-      </div>
-
-    </header>
-  </article>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-
-      <div class="post-meta">
-        <time itemprop="dateCreated"
-              datetime="2025-11-21T00:00:00-08:00"
-              content="2025-11-21">
-          11-21
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/talks/2025-11-21-talk" itemprop="url">
-            <span itemprop="name">起居注</span>
-          </a>
-      </div>
-
-    </header>
-  </article>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-
-      <div class="post-meta">
-        <time itemprop="dateCreated"
-              datetime="2025-11-20T00:00:00-08:00"
-              content="2025-11-20">
-          11-20
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/talks/2025-11-20-talk" itemprop="url">
-            <span itemprop="name">起居注</span>
-          </a>
-      </div>
-
-    </header>
-  </article>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-
-      <div class="post-meta">
-        <time itemprop="dateCreated"
-              datetime="2025-11-19T00:00:00-08:00"
-              content="2025-11-19">
-          11-19
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/talks/2025-11-19-talk" itemprop="url">
-            <span itemprop="name">健身困难</span>
-          </a>
-      </div>
-
-    </header>
-  </article>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-
-      <div class="post-meta">
-        <time itemprop="dateCreated"
-              datetime="2025-11-18T00:00:00-08:00"
-              content="2025-11-18">
-          11-18
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/talks/2025-11-18-talk" itemprop="url">
-            <span itemprop="name">看见师兄结婚有感</span>
-          </a>
-      </div>
-
-    </header>
-  </article>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-
-      <div class="post-meta">
-        <time itemprop="dateCreated"
-              datetime="2025-11-17T00:00:00-08:00"
-              content="2025-11-17">
-          11-17
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/talks/2025-11-17-talk" itemprop="url">
-            <span itemprop="name">一些别的事情</span>
-          </a>
-      </div>
-
-    </header>
-  </article>
-
+        <p>现在开始也是开始做论文啊。但是我一看到论文就头疼，怎么办？我一想到自己接下来的五年都是这个鬼样子，我都不免的担心。自己要是坚持不下去怎么办？哎呀，真的就离谱。我也不知道自己为什么要读博士。原因很简单，我没找到工作。我要找工作我就直接回家工作去了。哎哟，我的天哪。经济环境为什么不好呀？为什么那些大厂不多给人一些offer。我只想拿一个年薪四十万的package，然后我就美美地去工作了，我就和这些学校生活的说再见了。我不想浪费自己的时间，五年来读一个所谓的博士学位，我感觉没有意义。我不喜欢学术，我也不想以后在学术方面深耕。但是吧，读一个学博士学位还是很有必要的。反正。据观察来说，博士学位的发展上限更高，但是。我为什么不能当一个普通人呢？当一个平庸的人呢？当一个整天沉迷于老婆孩子热炕头，整天生活无所事事，干着一些。没有什么实际意义的工作。然后每天晚上六点下班儿。和自己心爱的女人出去吃吃烧烤。然后周末去爸妈家里面，然后爸妈给我做饭，这种生活难道不好吗？钱少不少。无所谓。</p>
+<p>今天早上是九点半起的床，但是我是凌晨四点才睡着的，总共可能就睡了五个小时多一点点。我也不知道为什么，反正就是睡不着，可能是喝喝多了，体内的咖啡因太多了，所以就造成晚上一场兴奋，晚上异常兴奋，拿着手机在那里看表白视频。看着别人的幸福，自己内心也有很多触动。自己也想要那样的幸福。可是大学本科马上就结束了，自己能不能找到还是两码事。哎，真让人尴尬呀。自己大学就谈了一段短短的一个月都不到的恋爱。真是可笑。当年那个意气风发颇受女生欢迎的蔡和森，没想到今天就成这样。起床，然后坐到教室就开始刷知乎，下午也刷知乎。然后3.05下课之后我就直接回到了宿舍。玩了一会儿游戏，然后。躺椅子上睡着了。我估计是缺乏休息所以身体直接给我强制下线。然后我和朋友去一起做做有氧洗了个澡然后又开始看文章了。我不想看文章，我不想读博士，我不想做那些那些的。可是没有办法呀。天津降大任于斯人也，必先苦其心志，只能一步一步往前走。</p>
+<p>今天看到李JY在朋友圈发的那些东西，自己也深有感触呀。一个北大元培的女孩子，原本应该有一个光明的未来。但是我不知道为什么他的家庭。还有她的遭遇让她变成了一个精神病。我不知道他的父母究竟还爱不爱他，我也不知道他的父母究竟是怎么样的。脑回路反正。我为这样一个优秀的女性遭受到这么大的痛苦感到不幸人啊，总是怀着怜悯之心。看到这么优秀的女孩子竟然是这样子的，内心也难免生出种种感触。不得不说这是一个悲剧。这是一个纯粹的悲剧。我想要做些什么来阻止这个悲剧，但是人家和我没有任何关系我甚至和他压根就没说过几句话。可惜呀，可惜。</p>
 
     </div>
-  </div>
-  
-  
-  
 
+    
+    
+    
+
+      <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/talks/" rel="tag"># talks</a>
+          </div>
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/talks/2025-11-22-talk" rel="prev" title="起居注">
+      <i class="fa fa-chevron-left"></i> 起居注
+    </a></div>
+      <div class="post-nav-item"></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
   
 
 
