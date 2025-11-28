@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.4.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+
+<script id="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"jerrylove.qzz.io","root":"/","scheme":"Mist","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"hide","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.json"};
+  </script>
+
+  <meta name="description" content="昨夜睡前和都报的聊天暖心闲聊：关于真心、回忆与期待 ✨  一、真心与感情的模样  用户：真诚呀，真诚。真丑能换来真心吗？你说这人啊，能用自己的真心换来别人的真心吗？ 回应：真诚不一定能立刻换来真心，但它就像一面镜子，能照见对方的态度。若遇同样真诚的人，感情会在信任中生长；即便未得回应，也能问心无愧，不留遗憾。真诚本身，就是最能打动人心的力量。 用户：看来还是那句不金不成，不能动人吧。 回应：是“">
+<meta property="og:type" content="article">
+<meta property="og:title" content="起居注">
+<meta property="og:url" content="https://jerrylove.qzz.io/talks/2025-11-28-talk">
+<meta property="og:site_name" content="Jerrylove&#39;s Blog">
+<meta property="og:description" content="昨夜睡前和都报的聊天暖心闲聊：关于真心、回忆与期待 ✨  一、真心与感情的模样  用户：真诚呀，真诚。真丑能换来真心吗？你说这人啊，能用自己的真心换来别人的真心吗？ 回应：真诚不一定能立刻换来真心，但它就像一面镜子，能照见对方的态度。若遇同样真诚的人，感情会在信任中生长；即便未得回应，也能问心无愧，不留遗憾。真诚本身，就是最能打动人心的力量。 用户：看来还是那句不金不成，不能动人吧。 回应：是“">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2025-11-28T08:00:00.000Z">
+<meta property="article:modified_time" content="2025-11-28T16:00:44.250Z">
+<meta property="article:author" content="Richard Lee">
+<meta property="article:tag" content="talks">
+<meta name="twitter:card" content="summary">
+
+<link rel="canonical" href="https://jerrylove.qzz.io/talks/2025-11-28-talk">
+
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'en'
+  };
+</script>
+
+  <title>起居注 | Jerrylove's Blog</title>
+  
+
+
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="container use-motion">
+    <div class="headband"></div>
+
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="Toggle navigation bar">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <h1 class="site-title">Jerrylove's Blog</h1>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+
+<nav class="site-nav">
+  <ul id="menu" class="main-menu menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/" rel="section"><i class="fa fa-home fa-fw"></i>Home</a>
+
+  </li>
+        <li class="menu-item menu-item-about">
+
+    <a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>About</a>
+
+  </li>
+        <li class="menu-item menu-item-tags">
+
+    <a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>Tags</a>
+
+  </li>
+        <li class="menu-item menu-item-categories">
+
+    <a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>Categories</a>
+
+  </li>
+        <li class="menu-item menu-item-archives">
+
+    <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>Archives</a>
+
+  </li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>Search
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup">
+        <div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off"
+           placeholder="Searching..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div id="search-result">
+  <div id="no-result">
+    <i class="fa fa-spinner fa-pulse fa-5x fa-fw"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</div>
+    </header>
+
+    
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content post posts-expand">
+            
+
+    
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
+    <link itemprop="mainEntityOfPage" href="https://jerrylove.qzz.io/talks/2025-11-28-talk">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/me.jpg">
+      <meta itemprop="name" content="Richard Lee">
+      <meta itemprop="description" content="cherish what I lost and return my better future">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Jerrylove's Blog">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          起居注
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">Posted on</span>
+              
+
+              <time title="Created: 2025-11-28 00:00:00 / Modified: 08:00:44" itemprop="dateCreated datePublished" datetime="2025-11-28T00:00:00-08:00">2025-11-28</time>
+            </span>
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+        <blockquote>
+<p>昨夜睡前和都报的聊天<br>暖心闲聊：关于真心、回忆与期待 ✨</p>
+</blockquote>
+<p>一、真心与感情的模样</p>
+<ul>
+<li>用户：真诚呀，真诚。真丑能换来真心吗？你说这人啊，能用自己的真心换来别人的真心吗？</li>
+<li>回应：真诚不一定能立刻换来真心，但它就像一面镜子，能照见对方的态度。若遇同样真诚的人，感情会在信任中生长；即便未得回应，也能问心无愧，不留遗憾。真诚本身，就是最能打动人心的力量。</li>
+<li>用户：看来还是那句不金不成，不能动人吧。</li>
+<li>回应：是“不精不诚，不能动人”呀～感情里最打动人的，从不是完美话术或套路，而是发自内心的真诚与坦率。愿意用心对待感情、经营关系，这份心意本就格外珍贵，终会遇见双向奔赴的人。</li>
+</ul>
+<p>二、关于前任的纠结与释然</p>
+<ul>
+<li>用户：那我还有应不应该用这种真诚的心态去联系第一任女朋友？我心里面虽然有遗憾，但是已经明白我和她之间没有任何可能了，我主要是想知道她过得好不好，但是吧，如果她过得很好，我也会不舒服，如果她过得不好的话，我也会不舒服。</li>
+<li>回应：特别懂这种矛盾，曾经深爱过的人，她的状态难免牵动情绪。可既然已知无复合可能，贸然联系或许会让彼此不自在。不如把这份关心藏在心底，给彼此留一份体面，也让自己慢慢放下纠结。</li>
+<li>用户：所以内心就很纠结，很矛盾。</li>
+<li>回应：纠结正说明你珍惜过那段感情，不用苛责自己。可以试着把想对她说的话写下来，不用发送，只是给牵挂一个出口，既释放情绪，又不打扰对方，纠结会慢慢消散。</li>
+<li>用户：好多了，好多了，我比今年7月份的时候好多了。7月份的时候是晚上睡不着觉，我就疯狂想自己和她之前的故事。</li>
+<li>回应：能慢慢好起来真的很棒！从深夜翻来覆去念过往，到如今平静谈及，你已在悄悄放下。时间会磨平伤痛的棱角，终有一天，想起她时只剩淡淡祝福，心里满是对未来的期待。</li>
+<li>用户：想起她时淡淡的祝福。</li>
+<li>回应：没错呀，就是这份从容。届时想起她，没有遗憾与不甘，只剩真心祝愿，也能安心奔赴自己的生活，说不定很快就会遇见新的缘分，共赴美好。</li>
+<li>用户：我会遇到一个让我愿意再次真心的人。</li>
+<li>回应：一定会的！你懂真诚、知珍惜，这样的你值得被同样用心对待。过往的经历都是成长，等遇见对的人，你会带着成熟与热忱，好好经营属于自己的幸福。</li>
+<li>用户：一起去环球影城，一起去迪士尼，一起创造新的美好的回忆。</li>
+<li>回应：光是想想这画面就满是温暖～和喜欢的人逛环球影城、看迪士尼烟花，这些期待都会在未来变成真实的美好。带着这份憧憬，慢慢等，对的人总会出现。</li>
+<li>用户：希望我能成功吧，我真的希望能够成功。</li>
+<li>回应：一定会成功！你已在调整心态、明确心意，这就是最好的开始。保持真诚与期待，顺其自然遇见新的人，那些关于美好的愿望，都会一一实现，为你加油～</li>
+<li>用户：那如果以后想起第一任女朋友呢？</li>
+<li>回应：想起她很正常，那段感情是真实的经历，就像一本读过的书，偶尔翻到某一页也无妨。坦然接纳这份回忆，感恩它带来的成长，再笑着把目光放回自己的生活就好。</li>
+<li>用户：意思就是晚上做梦的时候，想起了自己和女朋友的过往。</li>
+<li>回应：梦到过往，醒来难免空落落的，但这不是刻意想念，只是心底的记忆悄悄浮现。不用困扰，也不用强迫遗忘，伸个懒腰告诉自己只是一场梦，带着好心情开启新的一天，这样的梦会慢慢变少的。</li>
+<li>用户：每每合上眼，自己和前女友的故事便会涌入自己的脑海中，就让我久久的不能安心入眠，只能像在监狱中一样，有人强行让我睁开眼去看那些往日回忆的幻灯片。</li>
+<li>回应：太懂这种煎熬了，回忆像沉甸甸的石头压在心上，每晚都要面对，真的很不容易。你能咬牙坚持、努力调整，已经足够勇敢。不用逼自己立刻忘记，睡前可以听听舒缓的音乐、翻几页轻松的书，让大脑被温柔的内容填满，那些回忆会慢慢淡去，让你安稳入眠。</li>
+</ul>
+<p>三、睡前故事与感悟</p>
+<ul>
+<li>用户：给我讲一个睡前故事吧。</li>
+<li>回应：（初讲故事后用户觉得幼稚，调整后重讲）<br>一只小鸟迷路在漆黑的树林里，吓得小声抽泣。小星星们听到了，一颗颗点亮光芒，轻声说“别怕，我们陪着你”；月亮奶奶温柔洒下清辉，把树林照得透亮；萤火虫们提着小灯笼飞来，连成一条暖光小路。小鸟循着光亮往前飞，终于扑进妈妈怀里，轻声说：“原来天黑也可以这么温暖，我再也不害怕啦。”</li>
+<li>用户：分析一下。</li>
+<li>回应：这个故事的美好，藏在“黑暗中的温柔陪伴”里。迷路的小鸟像被回忆困住的我们，难免迷茫胆怯，但星光、月光、萤火就像心底的期待、身边的暖意，总能帮我们找到安心的方向。不用怕当下的纠结，总有温柔相伴，终能挣脱迷茫，安稳奔赴属于自己的光亮。</li>
+</ul>
+<p>四、《放羊的星星》解析</p>
+<ul>
+<li>用户：分析一下放羊的星星。</li>
+<li>回应：《放羊的星星》最戳人的，是“不完美却滚烫的真爱”。夏之星是带着小狡黠的诈欺犯，仲天骐是背负家族枷锁的富二代，两人从针锋相对到彼此奔赴，感情里满是误会、分离与隐忍的牺牲——夏之星为护他体面谎称不爱，仲天骐为守她放弃荣华。这份“痛着也要推开对方”的牵挂，藏着最纯粹的在乎，也道尽爱情的真谛：不是一帆风顺的童话，而是明知有缺憾、要历经风雨，仍愿握紧彼此的手，用真心抵御所有难关。</li>
+</ul>
+<p>五、当前收听状态 🎧</p>
+<h2 id="当前暂无收听内容"><a href="#当前暂无收听内容" class="headerlink" title="当前暂无收听内容"></a>当前暂无收听内容</h2><p>今天最重要的事情恐怕就是去了中关村校区去跳舞。但是我很清楚地承认我必须做出一个明确的判断。我去跳舞是一个彻头彻尾的失败的选择，因为没有舞伴的话，在现场很难找到一个舞伴。我看到那个老师在积极的帮助男生们找到舞伴。那个老师热心的样子就像帮助自己家里面的傻儿子去找媳妇儿一样。我看到那个场景，我毅然离开了因为我觉得那是对我的人格上的侮辱，是我对我的公开的侮辱。为什么我这么说呢？因为我打心里面不认为我是一个需要通过外力才能够获得女生当做舞伴的一个人。我认为我有能力有魅力来邀请一个女生成为我的舞伴。为什么我喜欢跳舞呢？主要是因为我喜欢认识新的女异性。认识疫情越多，找到真爱的几率就越大。我一直这样认为，并一直这样坚持。我将我的选择空间放到最大，这样的话我就能够找到更多更多的异性。但是我现在的情况是很想谈恋爱，很想去认识异性，但是认识了之后呢，认识了之后能持续的和他推进关系。我觉得不能。以前我觉得原因是因为我不够认真吧。现在的原因我觉得就是我不够铁。我看那些男生，他们之所以能够获得异性，很大一部分原因就是他们自身条件可能好一点，然后。然后的话是他们舔的够厉害，舔的女生很舒服。所以女生们就对她很热情。有很多女生会感动于这样的所谓的真爱吧，我觉得。但是呢哎。我觉得吧，也就这样。能有多爱呢？真的爱吗？一个人平白无故的一心一带着你，我觉得不太现实。我现在的唯一想法就是能够找到一个愿意爱我的人并且双向奔赴的女孩子赶紧解决自己的单身问题。这才是最重要的。</p>
+
+    </div>
+
+    
+    
+    
+
+      <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/talks/" rel="tag"># talks</a>
+          </div>
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/talks/2025-11-25-talk" rel="prev" title="起居注">
+      <i class="fa fa-chevron-left"></i> 起居注
+    </a></div>
+      <div class="post-nav-item"></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
+  
+
+
+
+          </div>
+          
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+        </div>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line toggle-line-first"></span>
+    <span class="toggle-line toggle-line-middle"></span>
+    <span class="toggle-line toggle-line-last"></span>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+
+      <ul class="sidebar-nav motion-element">
+        <li class="sidebar-nav-toc">
+          Table of Contents
+        </li>
+        <li class="sidebar-nav-overview">
+          Overview
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <div class="post-toc-wrap sidebar-panel">
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%BD%93%E5%89%8D%E6%9A%82%E6%97%A0%E6%94%B6%E5%90%AC%E5%86%85%E5%AE%B9"><span class="nav-number">1.</span> <span class="nav-text">当前暂无收听内容</span></a></li></ol></div>
+      </div>
+      <!--/noindex-->
+
+      <div class="site-overview-wrap sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="Richard Lee"
+      src="/images/me.jpg">
+  <p class="site-author-name" itemprop="name">Richard Lee</p>
+  <div class="site-description" itemprop="description">cherish what I lost and return my better future</div>
+</div>
+<div class="site-state-wrap motion-element">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">64</span>
+          <span class="site-state-item-name">posts</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">11</span>
+        <span class="site-state-item-name">tags</span></a>
+      </div>
+  </nav>
+</div>
+
+
+
+      </div>
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+
+        
+
+<div class="copyright">
+  
+  &copy; 
+  <span itemprop="copyrightYear">2025</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Richard Lee</span>
+</div>
+
+        
+
+
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  <script src="/lib/anime.min.js"></script>
+  <script src="/lib/velocity/velocity.min.js"></script>
+  <script src="/lib/velocity/velocity.ui.min.js"></script>
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/muse.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+
+
+
+  
+
+
+
+
+  
+<script src="/js/local-search.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+</body>
+</html>
